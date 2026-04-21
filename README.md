@@ -2,8 +2,6 @@
 
 **NAVI** es un asistente virtual de código abierto diseñado para automatizar flujos de trabajo de programación e integración de sistemas, optimizado para ejecutarse localmente en hardware NVIDIA (GTX 1650).
 
-> *"Hey, listen! Tu entorno de trabajo está listo."*
-
 ## 🌀 El Proyecto
 NAVI no es solo un chatbot; es un orquestador que conecta un modelo de lenguaje (LLM) con el sistema operativo para ejecutar rutinas complejas mediante comandos de voz.
 
@@ -31,7 +29,7 @@ El sistema se divide en tres capas principales:
 - [ ] Configuración inicial de repositorio y entorno virtual de Python.
 - [ ] Implementación del "Wake Word" (detección de la palabra 'Navi').
 - [ ] Conexión con la API local de Ollama.
-- [ ] Programación de la función `rutina_hyliana()` para el dashboard de trabajo.
+- [ ] Programación de la función `rutina()` para el dashboard de trabajo.
 - [ ] Integración de voz de respuesta con `pyttsx3`.
 
 ---
